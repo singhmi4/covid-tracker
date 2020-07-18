@@ -1,3 +1,13 @@
+# COVID-19 Tracker
+
+## Description
+
+This project was adapted from [Javascript Mastery's YouTube tutorial](https://www.youtube.com/watch?v=khJlrj3Y6Ls) with some refactoring done on the components.
+
+## Demo
+
+Coming soon...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
